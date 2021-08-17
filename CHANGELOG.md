@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 2.3.0.1 (2021-08-17)
+
+- Transitioning development lead back to doug@unlikelysource.com
+- Moved repository back to https://github.com/dbierer
+- Updated documentation to correct a couple of links
+
 ## 2.3.0 (2018-05-25)
 
 - Adds a new translation (Slovenian - Thanks to Ervin ervin.bizjak@gmail.com).
@@ -22,7 +28,7 @@
 
 - Fixes issue #17 - JForm translations not explained well enough in documentation.
 - Makes the module compliant with PHP-PDS 1.0 standards.
-- Fixes a minor issue concerning the extension.xml file. 
+- Fixes a minor issue concerning the extension.xml file.
 
 ## 2.0.0 (2017-01-28)
 
@@ -44,7 +50,7 @@
 
 - Fixes issue #2 - Confirmation messages when uploading more than one file.
 - Fixes issue #12 - File uploaded in spite of wrong captcha.
-  
+
 ## 1.8.8 (2016-07-04)
 
 - Fixes issue #1 - Error messages are displayed to the user when leaving

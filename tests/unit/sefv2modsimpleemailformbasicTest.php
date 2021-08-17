@@ -3,7 +3,7 @@
 /**
  * sefv2modsimpleemailformbasicTest.php
  *
- * Copyright 2010 - 2018 D. Bierer <doug@unlikelysource.com>
+ * Copyright 2010 - 2021 D. Bierer <doug@unlikelysource.com>
  * Version 2.3.0
  *
  * This program is free software; you can redistribute it and/or modify
@@ -21,9 +21,9 @@
  * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
  * MA 02110-1301, USA.
  *
- * @package    Simple Email Form Test Suite
- * @copyright  Copyright 2010 - 2018 D. Bierer <doug@unlikelysource.com>
- * @link       http://joomla.unlikelysource.org/
+ * @package    Simple Email Form
+ * @copyright  Copyright 2010 - 2021 D. Bierer <doug@unlikelysource.com>
+ * @link       https://joomla.unlikelysource.org/
  * @license    GNU/GPLv2, see above
  * @since 2.0.0
  */
@@ -1771,8 +1771,8 @@ class sefv2modsimpleemailformbasicTest extends \PHPUnit_Framework_TestCase
      */
     public function testDecorateInputWithoutLabel()
     {
-        $input = '<input 
-                    name="mod_simpleemailform_field2_1" 
+        $input = '<input
+                    name="mod_simpleemailform_field2_1"
                     id="mod_simpleemailform_field2_1"
                     value=""
                     class="required"
@@ -1808,8 +1808,8 @@ class sefv2modsimpleemailformbasicTest extends \PHPUnit_Framework_TestCase
      */
     public function testDecorateInputWithLabel()
     {
-        $input = '<input 
-                    name="mod_simpleemailform_field2_1" 
+        $input = '<input
+                    name="mod_simpleemailform_field2_1"
                     id="mod_simpleemailform_field2_1"
                     value=""
                     class="required"
@@ -1841,8 +1841,8 @@ class sefv2modsimpleemailformbasicTest extends \PHPUnit_Framework_TestCase
      */
     public function testDecorateInputTypeSubmitWithLabel()
     {
-        $input = '<input 
-                    name="mod_simpleemailform_submit_1" 
+        $input = '<input
+                    name="mod_simpleemailform_submit_1"
                     id="mod_simpleemailform_submit_1"
                     value="Submit"
                     class="required"
@@ -1875,8 +1875,8 @@ class sefv2modsimpleemailformbasicTest extends \PHPUnit_Framework_TestCase
      */
     public function testDecorateInputTypeResetWithLabel()
     {
-        $input = '<input 
-                    name="mod_simpleemailform_reset_1" 
+        $input = '<input
+                    name="mod_simpleemailform_reset_1"
                     id="mod_simpleemailform_reset_1"
                     value="Submit"
                     class="required"

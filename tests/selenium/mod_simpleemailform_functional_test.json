@@ -199,7 +199,7 @@
         "type": "id",
         "value": "install_url"
       },
-      "text": "https://codeload.github.com/andrewscaya/mod_simpleemailform/tar.gz/stable"
+      "text": "https://codeload.github.com/dbierer/mod_simpleemailform/tar.gz/stable"
     },
     {
       "type": "waitForElementPresent",

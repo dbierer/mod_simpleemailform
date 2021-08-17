@@ -3,7 +3,7 @@
 /**
  * helperfactoryinterface.php
  *
- * Copyright 2010 - 2018 D. Bierer <doug@unlikelysource.com>
+ * Copyright 2010 - 2021 D. Bierer <doug@unlikelysource.com>
  * Version 2.3.0
  *
  * This program is free software; you can redistribute it and/or modify
@@ -22,9 +22,9 @@
  * MA 02110-1301, USA.
  *
  * @package    Simple Email Form
- * @copyright  Copyright 2010 - 2018 D. Bierer <doug@unlikelysource.com>
  * @subpackage Modules
- * @link       http://joomla.unlikelysource.com/
+ * @copyright  Copyright 2010 - 2021 D. Bierer <doug@unlikelysource.com>
+ * @link       https://joomla.unlikelysource.org/
  * @license    GNU/GPLv2, see above
  * @since 2.0.0
  */

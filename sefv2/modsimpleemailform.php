@@ -3,7 +3,7 @@
 /**
  * modsimpleemailform.php
  *
- * Copyright 2010 - 2018 D. Bierer <doug@unlikelysource.com>
+ * Copyright 2010 - 2021 D. Bierer <doug@unlikelysource.com>
  * Version 2.3.0
  *
  * This program is free software; you can redistribute it and/or modify
@@ -22,8 +22,8 @@
  * MA 02110-1301, USA.
  *
  * @package    Simple Email Form
- * @copyright  Copyright 2010 - 2018 D. Bierer <doug@unlikelysource.com>
- * @link       http://joomla.unlikelysource.org/
+ * @copyright  Copyright 2010 - 2021 D. Bierer <doug@unlikelysource.com>
+ * @link       https://joomla.unlikelysource.org/
  * @license    GNU/GPLv2, see above
  * @since 2.0.0
  */
@@ -1257,8 +1257,8 @@ class sefv2modsimpleemailform implements
                 }
             }
 
-            $th = "<th align=\"{$this->formLabelAlign}\" 
-                        style=\"text-align:{$this->formLabelAlign};\" 
+            $th = "<th align=\"{$this->formLabelAlign}\"
+                        style=\"text-align:{$this->formLabelAlign};\"
                         class=\"{$this->formThClass}\">
                     $label
                 </th>";
@@ -1662,7 +1662,7 @@ class sefv2modsimpleemailform implements
 
         $uploadField = '';
 
-        $uploadField .= "<field 
+        $uploadField .= "<field
                             name=\"$uploadName\"
                             type=\"file\"
                             label=\"$uploadLabel\"

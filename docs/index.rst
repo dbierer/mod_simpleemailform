@@ -4,7 +4,7 @@ Welcome to Simple Email Form's documentation
 ============================================
 .. image:: /images/logo.png
 
-`Project Home Page <http://joomla.unlikelysource.org/>`_
+`Project Home Page <https://joomla.unlikelysource.org/>`_
 
 .. toctree::
    :maxdepth: 3

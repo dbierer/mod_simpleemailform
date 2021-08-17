@@ -9,12 +9,13 @@
         "module",
         "extension"
     ],
-    "homepage": "http://joomla.unlikelysource.org/",
+    "homepage": "https://joomla.unlikelysource.org/",
     "authors": [
         {
             "name": "Doug Bierer",
             "email": "doug@unlikelysource.com",
-            "homepage": "http://unlikelysource.net/"
+            "homepage": "https://unlikelysource.net/",
+            "role": "Lead Developer"
         },
         {
             "name": "Andrew Caya",

@@ -93,7 +93,7 @@ Use Captcha
 With the **JForm** type:
 
 To be able to use Captcha, you can follow the procedure on the `Joomla Website
-<https://docs.joomla.org/How_do_you_use_Recaptcha_in_Joomla%3F>`_.
+<https://docs.joomla.org/J3.x:Google_ReCaptcha>`_.
 
 This will produce a captcha looking like this:
 
